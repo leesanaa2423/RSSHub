@@ -1,7 +1,6 @@
 <p>标题：{{title}}</p>
-<p>评分：{{rate}}</p>
+<p>评分：{{rate}}/{{count}}人</p>
 <p>标签：{{card_subtitle}}</p>
-<p>影片信息：{{description}}</p>
 <p>影片信息：{{description}}</p>
 <p>
     <img src="{{cover_url}}" />
