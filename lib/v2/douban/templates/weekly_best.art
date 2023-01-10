@@ -2,6 +2,7 @@
 <p>评分：{{rate}}</p>
 <p>标签：{{card_subtitle}}</p>
 <p>影片信息：{{description}}</p>
+<p>影片信息：{{description}}</p>
 <p>
     <img src="{{cover_url}}" />
     {{each photos}}
